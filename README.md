@@ -8,25 +8,18 @@ I'm a versatile developer who thrives on building end-to-end solutions. With exp
 
 ## Technical Expertise
 
-### Languages & Tools
+### Languages
 <!-- PROGRAMMING LANGUAGES -->
-> `C` `C++` `Rust` `Go` `HTML5` `JavaScript` `TypeScript` `PHP` `Python` `Ruby` `Dart` `PowerShell` `Markdown`
+> `C` `C++` `Rust` `Go` `HTML5` `JavaScript` `TypeScript` `PHP` `Python` `Ruby` `Dart`
 
 ### Frontend Development 
 <!-- FRONTEND TECHNOLOGIES -->
-> **Main:**
-`React` `Next.js` `TailwindCSS` `Bootstrap` `Shadcn UI`
-
-> **Ecosystem:**
-`jQuery` `React Router` `React Hook Form` `Vite` `NPM`
+> `React` `Next.js` `TailwindCSS` `Bootstrap` `Shadcn UI`
 
 ### Backend & Infrastructure
 <!-- BACKEND TECHNOLOGIES -->
 > **Runtime & Frameworks:**
 `Node.js` `Deno.js` `Bun` `Express.js` `EJS`
-
-> **Authentication:**
-`JWT` `Token-based Auth`
 
 ### Database & Cloud Services
 <!-- DATABASE AND CLOUD -->
