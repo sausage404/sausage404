@@ -48,6 +48,6 @@ I'm a versatile developer who thrives on building end-to-end solutions. With exp
 ## Let's Connect
 
 - Email: parinya24dev@gmail.com
-- Discord: Mr Maxing#3714
+- Discord: sausage40428#3714
 
 Feel free to reach out for collaborations or interesting projects!
