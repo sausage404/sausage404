@@ -19,7 +19,7 @@ I'm a versatile developer who thrives on building end-to-end solutions. With exp
 ### Backend & Infrastructure
 <!-- BACKEND TECHNOLOGIES -->
 > **Runtime & Frameworks:**
-`Node.js` `Deno.js` `Bun` `Express.js` `EJS`
+`Node.js` `Express.js` `NestJS`
 
 ### Database & Cloud Services
 <!-- DATABASE AND CLOUD -->
