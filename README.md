@@ -14,7 +14,7 @@ I'm a versatile developer who thrives on building end-to-end solutions. With exp
 
 ### Frontend Development 
 <!-- FRONTEND TECHNOLOGIES -->
-> `React` `Next.js` `TailwindCSS` `Bootstrap` `Shadcn UI`
+> `React` `Next.js` `TailwindCSS` `Bootstrap`
 
 ### Backend & Infrastructure
 <!-- BACKEND TECHNOLOGIES -->
