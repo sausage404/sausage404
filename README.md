@@ -10,6 +10,6 @@ Experienced in designing and building scalable, maintainable software across the
 - 🧱 I prioritize clean architecture, maintainability, and practical design.
 - ☁️ I’m comfortable deploying apps to cloud platforms like Vercel and Render.
 - 🎨 I care about both code quality and user experience — from backend logic to UI/UX design.
-- 📧 You can contact me on [parinya24personal@gmail.com](mailto:parinya24personal@gmail.com) or sausage40428#3714
+- 📧 You can contact me on [parinya.pantimit@gmail.com](mailto:parinya.pantimit@gmail.com) or sausage40428#3714
 
 Feel free to reach out for collaborations or interesting projects!
